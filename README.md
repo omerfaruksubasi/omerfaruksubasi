@@ -1,4 +1,4 @@
-![Proje Logo](images/logo.png)
+![Proje Logo](img.png)
 
 ## About Me
 
