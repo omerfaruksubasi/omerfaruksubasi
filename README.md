@@ -3,7 +3,7 @@
 ## About Me
 
 ### Education
-- **Computer Engineering Student (4th Year)** / Namık Kemal University, Turkey
+- **Computer Engineering ** / Namık Kemal University, Turkey
 
 ### Contact
 - **Email:** omerfaruk20022006@hotmail.com
